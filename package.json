@@ -1,0 +1,19 @@
+{
+  "name": "hyex_xid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/201711111121690/hyex_xid"
+  },
+  "keywords": [],
+  "author": "201711111121690",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
